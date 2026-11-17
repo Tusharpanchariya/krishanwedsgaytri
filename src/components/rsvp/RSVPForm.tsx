@@ -315,7 +315,7 @@ export function RSVPForm() {
                   </label>
                   <textarea
                     rows={3}
-                    placeholder="Share your love, blessings and wishes for Krishan & Gayatri..."
+                    placeholder="Share your love, blessings and wishes for Kishan & Gayatri..."
                     value={formData.personal_message}
                     onChange={(e) => setFormData({ ...formData, personal_message: e.target.value })}
                     className="w-full px-4 py-3 rounded-xl bg-white border border-gold/40 focus:border-vermilion focus:ring-1 focus:ring-vermilion outline-none text-[#41171D] text-sm resize-none"

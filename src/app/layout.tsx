@@ -2,12 +2,12 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://krishanwedsgayatri.com"),
-  title: "Krishan Weds Gayatri — The Royal Wedding Invitation",
+  metadataBase: new URL("https://kishanwedsgayatri.com"),
+  title: "Kishan Weds Gayatri — The Royal Wedding Invitation",
   description:
-    "॥ श्री गणेशाय नमः ॥ सप्रेम आमंत्रण — Join us in celebrating the royal Rajasthani wedding of Krishan & Gayatri on 22 November 2026.",
+    "॥ श्री गणेशाय नमः ॥ सप्रेम आमंत्रण — Join us in celebrating the royal Rajasthani wedding of Kishan & Gayatri on 22 November 2026.",
   openGraph: {
-    title: "Krishan Weds Gayatri — Royal Wedding Invitation",
+    title: "Kishan Weds Gayatri — Royal Wedding Invitation",
     description:
       "Two hearts, one sacred bond, a lifetime of togetherness. 22 November 2026. Explore our royal wedding celebration and celebrations timeline.",
     images: [
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
         url: "/images/couple-portrait-1.jpeg",
         width: 1080,
         height: 1440,
-        alt: "Krishan & Gayatri Royal Wedding",
+        alt: "Kishan & Gayatri Royal Wedding",
       },
     ],
     type: "website",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Krishan Weds Gayatri — Royal Wedding Invitation",
+    title: "Kishan Weds Gayatri — Royal Wedding Invitation",
     description: "Two hearts, one sacred bond, a lifetime of togetherness. 22 November 2026.",
     images: ["/images/couple-portrait-1.jpeg"],
   },

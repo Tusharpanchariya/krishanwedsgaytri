@@ -31,7 +31,7 @@ export function Footer() {
         </p>
 
         <div className="pt-6 border-t border-gold/20 flex flex-col sm:flex-row items-center justify-between text-xs text-beige-heritage/60 gap-4">
-          <p>© 2026 Krishan & Gayatri Royal Wedding Celebration. All rights reserved.</p>
+          <p>© 2026 Kishan & Gayatri Royal Wedding Celebration. All rights reserved.</p>
           <button
             onClick={scrollToTop}
             className="hover:text-gold text-xs font-cinzel tracking-widest transition-colors uppercase"

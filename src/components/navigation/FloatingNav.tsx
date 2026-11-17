@@ -126,7 +126,7 @@ export function FloatingNav() {
           >
             <div className="mb-6">
               <span className="font-hindi text-gold text-lg font-bold">॥ श्री गणेशाय नमः ॥</span>
-              <h3 className="font-serif text-2xl text-white font-bold mt-1">KRISHAN & GAYATRI</h3>
+              <h3 className="font-serif text-2xl text-white font-bold mt-1">KISHAN & GAYATRI</h3>
               <p className="font-cinzel text-xs text-gold/80 tracking-widest mt-0.5">22 NOVEMBER 2026</p>
             </div>
 

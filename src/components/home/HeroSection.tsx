@@ -27,7 +27,7 @@ export function HeroSection() {
         >
           <Image
             src="/images/couple-portrait-1.jpeg"
-            alt="Krishan and Gayatri Royal Wedding"
+            alt="Kishan and Gayatri Royal Wedding"
             fill
             priority
             className="object-cover object-center filter brightness-[0.65] contrast-[1.05]"

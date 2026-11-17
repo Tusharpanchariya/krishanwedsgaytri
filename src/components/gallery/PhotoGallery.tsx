@@ -69,7 +69,7 @@ export function PhotoGallery() {
           <RoyalDivider className="my-6" />
 
           <p className="font-serif italic text-sm sm:text-base text-[#57252C] max-w-lg mx-auto">
-            Capturing the serenity, traditional grace, and genuine joy of Krishan and Gayatri as they unite in holy matrimony.
+            Capturing the serenity, traditional grace, and genuine joy of Kishan and Gayatri as they unite in holy matrimony.
           </p>
         </div>
 

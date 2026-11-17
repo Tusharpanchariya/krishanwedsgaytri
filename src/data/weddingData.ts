@@ -105,10 +105,10 @@ export interface WeddingDataConfig {
 export const weddingData: WeddingDataConfig = {
   couple: {
     groom: {
-      name: "KRISHAN",
+      name: "KISHAN",
       hindiName: "किशन",
       titleHindi: "चि. किशन",
-      bio: "With an authentic smile, calm grace, and warm heart, Krishan is ready to embark on this auspicious eternal journey.",
+      bio: "With an authentic smile, calm grace, and warm heart, Kishan is ready to embark on this auspicious eternal journey.",
     },
     bride: {
       name: "GAYATRI",
@@ -116,7 +116,7 @@ export const weddingData: WeddingDataConfig = {
       titleHindi: "सौ. का. गायत्री",
       bio: "Radiant, poised, and blessed with joyful warmth, Gayatri completes this beautiful story of love and family bond.",
     },
-    weddingTitle: "Krishan Weds Gayatri",
+    weddingTitle: "Kishan Weds Gayatri",
     traditionalTitle: "शुभ परिणय सूत्र बंधन",
     tagline: "Two hearts, one sacred bond, a lifetime of togetherness.",
     weddingDate: "22 November 2026",
@@ -146,11 +146,11 @@ export const weddingData: WeddingDataConfig = {
   events: [
     {
       id: "event-01",
-      hindiTitle: "हल्दवाय (बान)",
-      englishLabel: "Haldi & Baan Ceremony",
+      hindiTitle: "हल्दी बान",
+      englishLabel: "Haldi Baan Ceremony",
       date: "20 November 2026",
       hindiDate: "20 नवम्बर 2026",
-      time: "रात 9:15 बजे",
+      time: "प्रातः 9:15 बजे",
       description:
         "A traditional Rajasthani pre-wedding celebration filled with turmeric rituals, blessings, family traditions and happiness.",
       hindiDescription:
@@ -224,7 +224,7 @@ export const weddingData: WeddingDataConfig = {
       hindiDate: "22 नवम्बर 2026",
       time: "रात्रि शुभलग्नानुसार",
       description:
-        "The sacred union of Krishan and Gayatri, beginning their beautiful journey of togetherness.",
+        "The sacred union of Kishan and Gayatri, beginning their beautiful journey of togetherness.",
       hindiDescription:
         "अग्नि को साक्षी मानकर सप्तपदी के सात फेरे और अटूट जीवन संगिनी का पावन संकल्प।",
       visualTheme: {
@@ -248,7 +248,7 @@ export const weddingData: WeddingDataConfig = {
         hindiTitle: "प्रथम दृष्टि एवं स्नेह",
         dateLabel: "The Sacred Beginning",
         narrative:
-          "With respect, simplicity, and an unspoken spark, Krishan and Gayatri first crossed paths. What began with heartfelt conversations soon blossomed into a serene bond of deep trust.",
+          "With respect, simplicity, and an unspoken spark, Kishan and Gayatri first crossed paths. What began with heartfelt conversations soon blossomed into a serene bond of deep trust.",
         image: "/images/couple-portrait-3.jpeg",
       },
       {
@@ -264,7 +264,7 @@ export const weddingData: WeddingDataConfig = {
         hindiTitle: "अटूट विश्वास और परिणय",
         dateLabel: "22 November 2026",
         narrative:
-          "Now, surrounded by loved ones, sacred fire, and fragrant marigolds, Krishan and Gayatri step hand in hand towards a lifetime of happiness, harmony, and togetherness.",
+          "Now, surrounded by loved ones, sacred fire, and fragrant marigolds, Kishan and Gayatri step hand in hand towards a lifetime of happiness, harmony, and togetherness.",
         image: "/images/couple-portrait-1.jpeg",
       },
     ],
@@ -274,7 +274,7 @@ export const weddingData: WeddingDataConfig = {
     {
       id: "gal-1",
       src: "/images/couple-portrait-1.jpeg",
-      alt: "Krishan and Gayatri in royal traditional celebration attire",
+      alt: "Kishan and Gayatri in royal traditional celebration attire",
       caption: "Eternal Elegance — In Grace & Togetherness",
       hindiCaption: "स्नेह और गरिमा का दिव्य संगम",
       category: "portrait",
@@ -282,7 +282,7 @@ export const weddingData: WeddingDataConfig = {
     {
       id: "gal-2",
       src: "/images/couple-portrait-2.jpeg",
-      alt: "Krishan and Gayatri holding ceremonial wedding announcement",
+      alt: "Kishan and Gayatri holding ceremonial wedding announcement",
       caption: "The Auspicious Announcement — Welcoming Loved Ones",
       hindiCaption: "मांगलिक आमंत्रण एवं सप्रेम शुभाशीष",
       category: "celebration",

@@ -1,7 +1,7 @@
-# Krishan & Gayatri — The Royal Wedding Invitation
+# Kishan & Gayatri — The Royal Wedding Invitation
 ### ॥ श्री गणेशाय नमः ॥ शुभ परिणय सूत्र बंधन
 
-An extraordinary, cinematic, and culturally authentic digital wedding invitation web application for **Krishan & Gayatri**, crafted in the regal aesthetic of Rajasthani royalty (70% Rajasthani royal heritage, 20% Western luxury editorial, 10% contemporary interactive design).
+An extraordinary, cinematic, and culturally authentic digital wedding invitation web application for **Kishan & Gayatri**, crafted in the regal aesthetic of Rajasthani royalty (70% Rajasthani royal heritage, 20% Western luxury editorial, 10% contemporary interactive design).
 
 ---
 
@@ -13,7 +13,7 @@ An extraordinary, cinematic, and culturally authentic digital wedding invitation
    - Accessible skip option.
 
 2. **Full-Screen Cinematic Hero Section (`HeroSection`)**:
-   - Royal couple photography featuring the actual couple (Krishan & Gayatri) from `images/`.
+   - Royal couple photography featuring the actual couple (Kishan & Gayatri) from `images/`.
    - Subtle zoom, romantic parallax, traditional Rajasthani arches, and call-to-action buttons.
 
 3. **Traditional Printed Invitation Recreation (`TraditionalInvitation`)**:
@@ -21,7 +21,7 @@ An extraordinary, cinematic, and culturally authentic digital wedding invitation
    - "॥ श्री गणेशाय नमः ॥", "सप्रेम आमंत्रण", "कार्तिक सुदी 13, संवत 2083", "22 नवम्बर 2026" (No weekdays displayed).
 
 4. **Complete 5-Event Celebrations Timeline (`WeddingEventTimeline`)**:
-   - **Event 01 — हल्दवाय (बान)**: 20 November 2026, रात 9:15 बजे (Haldi & Baan Ceremony)
+   - **Event 01 — हल्दी बान**: 20 November 2026, प्रातः 9:15 बजे (Haldi Baan Ceremony)
    - **Event 02 — प्रीतिभोज**: 21 November 2026, शाम 7:15 बजे से (Preetibhoj / Wedding Feast)
    - **Event 03 — महिला संगीत**: 21 November 2026, रात्रि में (Mahila Sangeet)
    - **Event 04 — कुआं पूजन**: 22 November 2026, शाम 6:15 बजे (Kuan Poojan)
@@ -32,7 +32,7 @@ An extraordinary, cinematic, and culturally authentic digital wedding invitation
    - Clear note respecting the sacred tradition: ritual timings unfold at night per Vedic *shubh lagna*.
 
 6. **Editorial Couple Story (`CoupleStory`)**:
-   - Beautiful editorial chapters highlighting the bond of Krishan & Gayatri with real photographs and respectful narrative.
+   - Beautiful editorial chapters highlighting the bond of Kishan & Gayatri with real photographs and respectful narrative.
 
 7. **Photo Gallery & Lightbox (`PhotoGallery`)**:
    - Editorial masonry cards with full-screen lightbox modal and smooth image transitions.
