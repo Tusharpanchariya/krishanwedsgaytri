@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 45% 94%;
+    --foreground: 350 30% 20%;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  body {
+    background-color: #F7F0E3;
+    color: #41171D;
+    overflow-x: hidden;
+    font-family: var(--font-dmsans), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background: #A84B40;
+    color: #FAF6EE;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #E9D8BD;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #B58C52;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #A84B40;
+}
+
+/* Royal Rajasthani Patterns & Borders */
+.rajasthani-card-border {
+  border: 2px solid #B58C52;
+  box-shadow: 
+    inset 0 0 0 4px #F7F0E3,
+    inset 0 0 0 6px #A84B40,
+    0 10px 30px rgba(113, 60, 67, 0.12);
+}
+
+.gold-border-double {
+  border: 3px double #B58C52;
+}
+
+.parchment-texture {
+  background-color: #FAF6EE;
+  background-image: 
+    radial-gradient(#D9BD91 0.75px, transparent 0.75px),
+    radial-gradient(#C5A47D 0.75px, #FAF6EE 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+.subtle-parchment-bg {
+  background: linear-gradient(180deg, #FDFBF7 0%, #F7F0E3 50%, #EFE5D3 100%);
+}
+
+.arch-top {
+  border-top-left-radius: 50% 30%;
+  border-top-right-radius: 50% 30%;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #8C6527 0%, #B58C52 40%, #E5C387 70%, #8C6527 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-vermilion-gradient {
+  background: linear-gradient(135deg, #87362D 0%, #A84B40 50%, #713C43 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Glass royal pill */
+.glass-royal {
+  background: rgba(247, 240, 227, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(181, 140, 82, 0.35);
+}
+
